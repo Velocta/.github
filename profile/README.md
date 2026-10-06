@@ -1,71 +1,86 @@
-<div align="center">
-
-  <h1>⚡ VELOCTA</h1>
-  <p><strong>High-Throughput Automation Engines & Creator Distribution Tooling</strong></p>
-  <p>📍 Islamabad, Pakistan</p>
-
-  <!-- Animated Typing Banner -->
+<p align="center">
   <a href="https://github.com/Velocta">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=560&lines=High-Throughput+Automation+Architectures;Creator+Distribution+%26+Publishing+Engines;Resilient+Web+Scraping+%26+Reverse-Engineered+APIs;Autonomous+AI+Workflows+%26+Agentic+Pipelines" alt="Velocta Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Velocta/.github/main/assets/velocta-logo-dark.png">
+      <img alt="Velocta" src="https://raw.githubusercontent.com/Velocta/.github/main/assets/velocta-logo-light.png" width="90" />
+    </picture>
   </a>
+</p>
 
-</div>
+<h1 align="center">Velocta</h1>
+
+<p align="center">
+  <strong>Autonomous execution infrastructure for digital creators and agents.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Velocta"><strong>Explore Repositories »</strong></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active_Development-000000?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Architecture-Distributed_Async-000000?style=flat-square" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Core-Python_3.12-000000?style=flat-square" alt="Python" />
+</p>
 
 ---
 
-### 🌐 About Velocta
+<p align="center">
+  <strong>Automate. Scale. Deploy.</strong>
+</p>
 
-**Velocta** designs and develops high-velocity automation software, headless browser pipelines, and AI-driven workflows built to eliminate friction in modern digital operations and content distribution.
-
-Our focus is engineering robust, silent, behind-the-scenes systems that operate at scale with zero downtime.
+<p align="center">
+  Velocta engineers headless browser runtimes, resilient data extraction systems, and multi-platform publishing engines built to run silently in the background at global scale.
+</p>
 
 ---
 
-### 🚀 Core Engineering Pillars
+### Core Engines
+
+| Engine | Focus | Capability |
+| :--- | :--- | :--- |
+| **Creator Distribution** | Multi-Platform Publishing | Automated queuing, asset optimization, and cross-platform scheduling pipelines. |
+| **High-Throughput Scraping** | Web Extraction & Reverse APIs | Session rotation, stealth headless execution, and fault-tolerant parsing. |
+| **Agentic Workflows** | Autonomous Execution | Event-driven bot worker pools, API integrations, and self-healing task pipelines. |
+
+---
+
+### Architectural Philosophy
 
 ```
-                     ┌─────────────────────────────┐
-                     │          VELOCTA            │
-                     │     Automation Engine       │
-                     └──────────────┬──────────────┘
-                                    │
-         ┌──────────────────────────┼──────────────────────────┐
-         │                          │                          │
-         ▼                          ▼                          ▼
- ┌───────────────┐          ┌───────────────┐          ┌───────────────┐
- │   CREATOR     │          │  EXTRACTION   │          │  AGENTIC AI   │
- │ DISTRIBUTION  │          │   & SCRAPING  │          │ & BOTS        │
- │ Multi-channel │          │ High-speed    │          │ Headless task │
- │ sync & upload │          │ data engines  │          │ orchestration │
- └───────────────┘          └───────────────┘          └───────────────┘
+  [ Trigger Event ]  ───►  [ Asynchronous Queue ]  ───►  [ Headless Engine ]
+                                                                 │
+                                                       ┌─────────┴─────────┐
+                                                       ▼                   ▼
+                                                [ Social Pipelines ]  [ API Endpoints ]
 ```
 
-* **⚡ Creator Distribution:** Multi-platform media uploaders, automated scheduling queues, and asset pipeline optimizers.
-* **🕷️ High-Throughput Data Engines:** Resilient web scraping, session rotation, and reverse-engineered API integrations.
-* **🧠 Agentic AI & Bots:** Event-driven background tasks, task workers, and autonomous agent systems.
+* **Zero Friction:** Turn hours of manual browser interactions into a single asynchronous event.
+* **Resilient by Default:** Built with automatic session recovery, retry backoffs, and proxy orchestration.
+* **Minimalist & Modular:** Headless execution engines decoupled from frontend interfaces.
 
 ---
 
-### 🛠️ Technology Stack
+### Technology Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-</div>
-
----
-
-### 👥 Leadership & Engineering
-* **Shahzeb Malik** ([@shahzebpyc](https://github.com/shahzebpyc)) — Founder & Lead Engineer
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Celery-000000?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+</p>
 
 ---
 
-<div align="center">
-  <p>📬 <i>Contact: <a href="mailto:shahzebpyc@gmail.com">shahzebpyc@gmail.com</a></i></p>
-  <p>© 2026 Velocta. All rights reserved.</p>
-</div>
+### Engineering & Leadership
+
+* **Shahzeb Malik** ([@shahzebpyc](https://github.com/shahzebpyc)) — Founder & Lead Systems Engineer
+
+---
+
+<p align="center">
+  <sub>© 2026 Velocta. All systems operational.</sub>
+</p>
